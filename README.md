@@ -10,15 +10,15 @@ I assume participants have basic Python knowledge and know how to work with cont
 
 ## Prerequisites
 
-Please run test_environment.ipynb. It checks the versions of your python and some packages (like pandas, openai). If the notebook returns all OK, you should be able to run the code without issues. If some FAILs are returned, you need to install/update those packages first.
+Please run `test_environment.ipynb`. It checks the versions of your python and some packages (like pandas, openai). If the notebook returns all OK, you should be able to run the code without issues. If some FAILs are returned, you need to install/update those packages first.
 
-You can recreate the python environment using the dscov-chatgpt.yml conda environment file by running these two commands in the terminal:
+You can recreate the python environment using the `dscov-chatgpt.yml` conda environment file by running these two commands in the terminal:
 
-conda env create -n dscov-chatgpt -f dscov-chatgpt.yml
+`conda env create -n dscov-chatgpt -f dscov-chatgpt.yml`
 
-conda activate dscov-chatgpt
+`conda activate dscov-chatgpt`
 
-You should be able to run 'DSCoV - ChatGPT API.ipynb' now.
+You should be able to run `DSCoV - ChatGPT API.ipynb` now.
 
 ## OpenAI API key
 
