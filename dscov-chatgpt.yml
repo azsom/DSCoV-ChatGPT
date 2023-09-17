@@ -1,0 +1,15 @@
+name: dscov-chatgpt
+channels:
+- conda-forge
+- defaults
+dependencies:
+- python=3.11.5
+- matplotlib=3.7.2
+- pandas=2.1.0
+- scikit-learn=1.3.0
+- numpy=1.25.2
+- openai=0.28.0
+- python-dotenv
+- jupyter
+
+prefix: /opt/conda
