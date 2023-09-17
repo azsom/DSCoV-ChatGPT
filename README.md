@@ -18,7 +18,7 @@ You can recreate the python environment using the `dscov-chatgpt.yml` conda envi
 
 `conda activate dscov-chatgpt`
 
-You should be able to run `DSCoV - ChatGPT API.ipynb` now.
+You should be able to run `src/DSCoV - ChatGPT API.ipynb` now.
 
 ## OpenAI API key
 
